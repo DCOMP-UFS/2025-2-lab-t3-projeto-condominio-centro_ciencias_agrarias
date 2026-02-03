@@ -17,8 +17,6 @@ http://44.222.84.219
 
 Atua em pesquisas relacionadas à análise, manejo e monitoramento da qualidade do solo. Utiliza infraestrutura computacional e de rede para tratamento de dados experimentais, além de sensores IoT para coleta de informações como umidade e pH do solo, integrados à plataforma central do condomínio.
 
-https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-carvalhoFilip.git
-
 - Laboratório de Tecnologia de Sementes
   
 Voltado para estudos de qualidade fisiológica, armazenamento e desempenho de sementes. Faz uso da infraestrutura compartilhada para registro, processamento e análise de dados experimentais, bem como para integração de resultados entre projetos e grupos de pesquisa.
@@ -30,6 +28,8 @@ Destinado a atividades de pesquisa em biologia aplicada às ciências agrárias,
 - Laboratório de Hidráulica e Irrigação
   
 Focado em pesquisas sobre uso eficiente da água, sistemas de irrigação e manejo hídrico. Emprega a infraestrutura tecnológica do condomínio para coleta, monitoramento e análise de dados ambientais, integrando informações de campo à plataforma central.
+
+- Dados e estrutura de cada um deles detalhados em: https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-carvalhoFilip.git
 
 ## Objetivo da Proposta
 Promover o uso multiusuário de laboratórios, ampliando o acesso à infraestrutura de pesquisa, fortalecendo a produção científica e otimizando recursos institucionais.
