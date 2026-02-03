@@ -17,6 +17,8 @@ http://44.222.84.219
 
 Atua em pesquisas relacionadas à análise, manejo e monitoramento da qualidade do solo. Utiliza infraestrutura computacional e de rede para tratamento de dados experimentais, além de sensores IoT para coleta de informações como umidade e pH do solo, integrados à plataforma central do condomínio.
 
+https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-carvalhoFilip.git
+
 - Laboratório de Tecnologia de Sementes
   
 Voltado para estudos de qualidade fisiológica, armazenamento e desempenho de sementes. Faz uso da infraestrutura compartilhada para registro, processamento e análise de dados experimentais, bem como para integração de resultados entre projetos e grupos de pesquisa.
